@@ -1,0 +1,1 @@
+# import_de_historical_data.sh
